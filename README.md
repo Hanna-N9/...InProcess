@@ -1,4 +1,4 @@
-# MarineLifeExplorer
+# Marine Life Explorer
 
 # Add JSON
 
