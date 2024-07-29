@@ -1,10 +1,9 @@
-{
-    "marine": [
+[
         {
             "id": 1,
             "name": "Blue Whale",
             "scientificName": "Balaenoptera musculus",
-            "image": "...",
+            "image": ".s..",
             "diet": "Carnivore",
             "lifespan": "80 years",
             "averageWeight": "150000 kg",
@@ -91,4 +90,3 @@
             "conservationStatus": "Least Concern"
         }
     ]
-}
