@@ -1,7 +1,7 @@
 # Marine Life Explorer
 
-# Add JSON
+...
 
-# Add to use Tailwind CSS
+# Getting Started
 
-# Maybe use Node.js
+...
