@@ -11,7 +11,7 @@ Marine Life Explorer is a React-based web application showcasing a list of sea a
 1. Clone the repository:
 
 ```sh
-  git https://github.com/Hanna-N9/MarineLifeExplorer.git
+  git clone https://github.com/Hanna-N9/MarineLifeExplorer.git
 ```
 
 2. Navigate to the Marine-Life-Explorer/client directory:
