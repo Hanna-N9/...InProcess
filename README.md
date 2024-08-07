@@ -14,4 +14,12 @@ Marine Life Explorer is a React-based web application showcasing a list of sea a
   git clone https://github.com/developer-delta/halogen.git
 ```
 
-2. Navigate to...
+2. Navigate to the Marine-Life-Explorer/client directory:
+
+```sh
+  cd Marine-Life-Explorer/client
+```
+
+3. Install dependencies: `npm install`
+
+4. To start the application: `npm start`. Click [http://localhost:3000](http://localhost:3000) to view the app in the browser.
